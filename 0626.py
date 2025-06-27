@@ -1,6 +1,6 @@
 #%%
 # Problem 1. Lv.0 문자열 돌리기
-# 
+# https://school.programmers.co.kr/learn/courses/30/lessons/181945
 # Solution
 import sys
 str = sys.stdin.readline().rstrip()
@@ -9,7 +9,7 @@ for S in str:
 
 #%%
 # Problem 2. Lv.0 문자열 정렬하기 (1)
-#
+# https://school.programmers.co.kr/learn/courses/30/lessons/120850
 # Solution
 def solution(my_string):
     answer = sorted([int(i) for i in list(my_string) if i.isdigit()])
@@ -17,14 +17,14 @@ def solution(my_string):
 
 #%%
 # Problem 3. Lv.0 부분 문자열인지 확인하기
-#
+# https://school.programmers.co.kr/learn/courses/30/lessons/181843
 # Solution
 def solution(my_string, target):
     return 1 if target in my_string else 0
 
 #%%
 # Problem 4. Lv.2 짝지어 제거하기
-#
+# https://school.programmers.co.kr/learn/courses/30/lessons/12973
 # Solution 
 # - 스택을 이용한 풀이
 def solution(s):
