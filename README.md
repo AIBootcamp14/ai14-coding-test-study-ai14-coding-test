@@ -18,7 +18,7 @@ _* Future plans are subject to change_
 
 
 |Date <br> (Yr2025)  |Problem 1|Problem 2|Problem 3|Problem 4|Problem 5|
-|:-----:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|:-----:|:-------|:-------|:-------|:-------|:-------|
 | 0616  |[Lv.0 나이출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)|[Lv.0 모음제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)|[Lv.0 삼각형의 완성조건(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889)|||
 | 0617  |[Lv.0 두 수의 차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120803)|[Lv.0 배열원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)|[Lv.0 편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)|[Lv.2 교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)||
 | 0618  |[Lv.0 숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)|[Lv.0 배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903)|[Lv.0 제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)|[Lv.2 행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)||
