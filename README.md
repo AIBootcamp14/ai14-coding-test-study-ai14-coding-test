@@ -32,8 +32,8 @@ _* Future plans are subject to change_
 | 0630  |[Lv.0 A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874)|[Lv.0 암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892)|[Lv.0 뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852)|[Lv.1 3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)|[Lv.2 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|
 | 0701  |[Lv.0 특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873)|[Lv.0 대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)|[Lv.0 배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854)|[Lv.1 신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|[Lv.1 문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)|
 | 0702  |[Lv.0 정수 부분](https://school.programmers.co.kr/learn/courses/30/lessons/181850)|[Lv.0 가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899)|[Lv.0 rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863)|[Lv.1 핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)||
-| 0703  |[]()|[]()|[]()|[]()|[]()|
-| 0704  |[]()|[]()|[]()|[]()|[]()|
+| 0703  |[Lv.0 특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833)|[Lv.0 0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847)|[Lv.0 공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868)|[Lv.1 콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|||
+| 0704  |[Lv.0 주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839)|[Lv.0 배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844)|[Lv.0 ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870)|[Lv.3 하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)||
 | 0707  |[]()|[]()|[]()|[]()|[]()|
 | 0708  |[]()|[]()|[]()|[]()|[]()|
 | 0709  |[]()|[]()|[]()|[]()|[]()|
