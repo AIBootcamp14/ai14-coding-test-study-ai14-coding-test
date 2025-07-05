@@ -34,46 +34,46 @@ _* Future plans are subject to change_
 | 0702  |[Lv.0 정수 부분](https://school.programmers.co.kr/learn/courses/30/lessons/181850)|[Lv.0 가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899)|[Lv.0 rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863)|[Lv.1 핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)||
 | 0703  |[Lv.0 특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833)|[Lv.0 0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847)|[Lv.0 공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868)|[Lv.1 콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|||
 | 0704  |[Lv.0 주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839)|[Lv.0 배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844)|[Lv.0 ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870)|[Lv.3 하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)||
-| 0707  |[]()|[]()|[]()|[]()|[]()|
-| 0708  |[]()|[]()|[]()|[]()|[]()|
-| 0709  |[]()|[]()|[]()|[]()|[]()|
-| 0710  |[]()|[]()|[]()|[]()|[]()|
-| 0711  |[]()|[]()|[]()|[]()|[]()|
-| 0714  |[]()|[]()|[]()|[]()|[]()|
-| 0715  |[]()|[]()|[]()|[]()|[]()|
-| 0716  |[]()|[]()|[]()|[]()|[]()|
-| 0717  |[]()|[]()|[]()|[]()|[]()|
-| 0718  |[]()|[]()|[]()|[]()|[]()|
-| 0721  |[]()|[]()|[]()|[]()|[]()|
-| 0722  |[]()|[]()|[]()|[]()|[]()|
-| 0723  |[]()|[]()|[]()|[]()|[]()|
-| 0724  |[]()|[]()|[]()|[]()|[]()|
-| 0725  |[]()|[]()|[]()|[]()|[]()|
-| 0728  |[]()|[]()|[]()|[]()|[]()|
-| 0729  |[]()|[]()|[]()|[]()|[]()|
-| 0730  |[]()|[]()|[]()|[]()|[]()|
-| 0731  |[]()|[]()|[]()|[]()|[]()|
-| 0801  |[]()|[]()|[]()|[]()|[]()|
-| 0804  |[]()|[]()|[]()|[]()|[]()|
-| 0805  |[]()|[]()|[]()|[]()|[]()|
-| 0806  |[]()|[]()|[]()|[]()|[]()|
-| 0807  |[]()|[]()|[]()|[]()|[]()|
-| 0808  |[]()|[]()|[]()|[]()|[]()|
-| 0811  |[]()|[]()|[]()|[]()|[]()|
-| 0812  |[]()|[]()|[]()|[]()|[]()|
-| 0813  |[]()|[]()|[]()|[]()|[]()|
-| 0814  |[]()|[]()|[]()|[]()|[]()|
-| 0815  |[]()|[]()|[]()|[]()|[]()|
-| 0818  |[]()|[]()|[]()|[]()|[]()|
-| 0819  |[]()|[]()|[]()|[]()|[]()|
-| 0820  |[]()|[]()|[]()|[]()|[]()|
-| 0821  |[]()|[]()|[]()|[]()|[]()|
-| 0822  |[]()|[]()|[]()|[]()|[]()|
-| 0825  |[]()|[]()|[]()|[]()|[]()|
-| 0826  |[]()|[]()|[]()|[]()|[]()|
-| 0827  |[]()|[]()|[]()|[]()|[]()|
-| 0828  |[]()|[]()|[]()|[]()|[]()|
-| 0829  |[]()|[]()|[]()|[]()|[]()|
+| 0707  |[Lv.0 세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)|[Lv.0 배열에서 문자열 대소문자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875)|[Lv.0 첫 번째로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896)|[]()|[]()|
+| 0708  |[Lv.0 문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907)|[Lv.0 할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885)|[Lv.0 배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901)|[]()|[]()|
+| 0709  |[Lv.0 특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)|[Lv.0 접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908)|[Lv.0 접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909)|[]()|[]()|
+| 0710  |[Lv.0 짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813)|[Lv.0 부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911)|[Lv.0 9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914)|[]()|[]()|
+| 0711  |[Lv.0 가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)|[Lv.0 글자 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181915)|[Lv.0 수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925)|[]()|[]()|
+| 0714  |[Lv.0 flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)|[Lv.0 배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912)|[Lv.0 로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)|[]()|[]()|
+| 0715  |[Lv.0 홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/120824)|[Lv.0 등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120923)|[Lv.0 치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)|[]()|[]()|
+| 0716  |[Lv.0 두 수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938)|[Lv.0 문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942)|[Lv.0 저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)|[]()|[]()|
+| 0717  |[Lv.0 원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929)|[Lv.0 2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842)|[Lv.0 문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)|[]()|[]()|
+| 0718  |[Lv.0 n 번째 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181889)|[Lv.0 A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)|[Lv.0 특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)|[]()|[]()|
+| 0721  |[Lv.0 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877)|[Lv.0 배열의 길이를 2의 거듭제곱으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181857)|[Lv.0 배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)|[]()|[]()|
+| 0722  |[Lv.0 특별한 이차원 배열 2](https://school.programmers.co.kr/learn/courses/30/lessons/181833)|[Lv.0 수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922)|[Lv.0 코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865)|[]()|[]()|
+| 0723  |[Lv.0 외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)|[Lv.0 문자열 여러 번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913)|[Lv.0 문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952)|[]()|[]()|
+| 0724  |[Lv.0 피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)|[Lv.0 영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)|[Lv.0 캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)|[]()|[]()|
+| 0725  |[Lv.0 중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)|[Lv.0 구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)|[Lv.0 직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)|[]()|[]()|
+| 0728  |[Lv.0 두 수의 합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120802)|[알고리즘 수업 - 알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262)|[]()|[]()|[]()|
+| 0729  |[Lv.0 두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806)|[]()|[]()|[]()|[]()|
+| 0730  |[Lv.0 피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816)|[알고리즘 수업 - 알고리즘의 수행 시간 3](https://www.acmicpc.net/problem/24264)|[]()|[]()|[]()|
+| 0731  |[Lv.0 양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)|[]()|[]()|[]()|[]()|
+| 0801  |[Lv.0 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)|[알고리즘 수업 - 알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266)|[]()|[]()|[]()|
+| 0804  |[Lv.0 최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847)|[]()|[]()|[]()|[]()|
+| 0805  |[Lv.0 n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905)|[알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313)|[]()|[]()|[]()|
+| 0806  |[Lv.0 자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906)|[]()|[]()|[]()|[]()|
+| 0807  |[Lv.0 배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817)|[스택 2](https://www.acmicpc.net/problem/28278)|[]()|[]()|[]()|
+| 0808  |[Lv.0 아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)|[]()|[]()|[]()|[]()|
+| 0811  |[Lv.0 l로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181834)|[괄호](https://www.acmicpc.net/problem/9012)|[]()|[]()|[]()|
+| 0812  |[Lv.0 문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864)|[]()|[]()|[]()|[]()|
+| 0813  |[Lv.0 더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939)|[큐 2](https://www.acmicpc.net/problem/18258)|[]()|[]()|[]()|
+| 0814  |[Lv.0 n 번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889)|[]()|[]()|[]()|[]()|
+| 0815  |[Lv.0 문자 리스트를 문자열로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181941)|[카드2](https://www.acmicpc.net/problem/2164)|[]()|[]()|[]()|
+| 0818  |[Lv.0 문자열의 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910)|[]()|[]()|[]()|[]()|
+| 0819  |[Lv.0 콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919)|[덱 2](https://www.acmicpc.net/problem/28279)|[]()|[]()|[]()|
+| 0820  |[Lv.0 문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946)|[]()|[]()|[]()|[]()|
+| 0821  |[Lv.0 n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888)|[queuestack](https://www.acmicpc.net/problem/24511)|[]()|[]()|[]()|
+| 0822  |[Lv.0 홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944)|[]()|[]()|[]()|[]()|
+| 0825  |[Lv.0 한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896)|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|[]()|[]()|[]()|
+| 0826  |[Lv.0 7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912)|[]()|[]()|[]()|[]()|
+| 0827  |[Lv.0 간단한 논리 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181917)|[]()|[]()|[]()|[]()|
+| 0828  |[Lv.0 문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950)|[]()|[]()|[]()|[]()|
+| 0829  |[Lv.0 컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)|[]()|[]()|[]()|[]()|
 | 0901  |[]()|[]()|[]()|[]()|[]()|
 | 0902  |[]()|[]()|[]()|[]()|[]()|
 | 0903  |[]()|[]()|[]()|[]()|[]()|
